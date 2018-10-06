@@ -3,8 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="string_click_to_load">Данные загружается... Подождите</string>
     <string name="string_getting_json_title">Подождите...</string>
-    <string name="string_getting_json_message">cdhaaschkaschkas sdhvcjskdhv sdvhsdvjksh</string>
+    <string name="string_getting_json_message">Данные загружается....\</string>
     <string name="string_some_thing_wrong">Error... Request failed!</string>
     <string name="string_internet_connection_not_available">No internet connection</string>
-    <string name="string_failed">Request fsailed</string>
+    <string name="string_failed">Request failed succesfully!!!!!!!!!!</string>
 </resources>

@@ -7,7 +7,7 @@ import retrofit2.http.GET;
 
 public interface ApiService {
 
-    @GET("posts/1")
+    @GET("posts")
     Call<PostList> getMyJSON();
 
 }
